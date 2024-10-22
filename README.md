@@ -1,8 +1,8 @@
 -> Hi, I’m Developer Harish
--> I’m interested as in Java & Spring Boot developer
--> I’m currently learning DSA
--> I’m looking to collaborate on development projects
--> Reach me through mail... Harishdubey98r@gmail.com
+- I’m interested as in Java & Spring Boot developer
+- I’m currently learning DSA
+- I’m looking to collaborate on development projects
+- Reach me through mail... Harishdubey98r@gmail.com
 
 <!---
 DeveloperHarish98/DeveloperHarish98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
