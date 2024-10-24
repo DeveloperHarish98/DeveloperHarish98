@@ -1,4 +1,4 @@
--> Hi, I’m Developer Harish
+-> Hi, I’m Harish a Developer
 - I’m interested as in Java & Spring Boot developer
 - I’m currently learning DSA
 - I’m looking to collaborate on development projects
