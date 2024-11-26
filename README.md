@@ -1,7 +1,7 @@
 # Hi, I'm Harish 👋 
 ### You can call me Harry... I'm a Java & Spring Developer 
 
-👨🏻‍💻Software Developer with a passion for developing scalable web applications and working across the full stack. I'm always looking for an opportunity to work for an organization and utilize my skills acquired for self-development and the growth of the organization.
+👨🏻‍💻A Software Developer with a passion for developing scalable web applications and working across the full stack. I'm always looking for an opportunity to work for an organization and utilize my skills acquired for self-development and the growth of the organization.
 
 I’m interested as in Java & Spring Boot application development
 I’m looking to collaborate on development projects
