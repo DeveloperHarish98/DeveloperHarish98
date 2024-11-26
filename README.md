@@ -8,7 +8,7 @@ I’m looking to collaborate on development projects
 I’m currently learning DSA
 #### Reach me through mail... Harishdubey98r@gmail.com
 
-## 🛠️ Technology Stack
+### 🛠️ Technology Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -20,7 +20,7 @@ I’m currently learning DSA
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="0%" width="32%" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&theme=radical" />
@@ -30,7 +30,7 @@ I’m currently learning DSA
     <img height="0%" width="32%" src="http://github-readme-streak-stats.herokuapp.com?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeveloperHarish98&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
@@ -38,13 +38,13 @@ I’m currently learning DSA
 
 ![Header](https://drive.google.com/uc?export=view&id=1iEyzCdu64sNdDqzY6lDPAwnGU96qzA8s)
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <img height="25%" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&theme=react-dark" alt="Contribution Graph" />
 </p>
 
-## 👀 Profile Views
+### 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperHarish98&style=flat-square&color=blue" alt="Profile views" />
