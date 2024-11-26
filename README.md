@@ -23,7 +23,9 @@ I’m currently learning DSA
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=white)
-
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 📊 GitHub Stats
 
