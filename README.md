@@ -34,7 +34,7 @@ I’m currently learning DSA
    <img height="0%" width="28.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHarish98&theme=radical&layout=compact" />
   </p>
   <p align="center">
-   <img height="50%" width="50%" src="https://streak-stats.demolab.com?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+   <img height="0%" width="50%" src="https://streak-stats.demolab.com?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ### 🏆 GitHub Trophies
