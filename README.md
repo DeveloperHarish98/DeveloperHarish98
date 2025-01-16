@@ -46,7 +46,7 @@ I’m currently learning DSA
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img height="25%" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&theme=react-dark" alt="Contribution Graph" />
+  <img height="25%" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&theme=react-white" alt="Contribution Graph" />
 </p>
 
 ### 👀 Profile Views
