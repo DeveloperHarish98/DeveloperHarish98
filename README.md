@@ -35,8 +35,12 @@ I’m currently learning DSA
   </p>
 
 ### 📊 GitHub Streak Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshi-chinky-1999&show_icons=true&locale=en&layout=compact" alt="joshi-chinky-1999" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&" alt="joshi-chinky-1999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshi-chinky-1999&show_icons=true&locale=en" alt="joshi-chinky-1999" /></p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshi-chinky-1999theme=dark&" alt="joshi-chinky-1999" /></p>
+
 
 ### 🏆 GitHub Trophies
 
