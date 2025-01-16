@@ -40,7 +40,7 @@ I’m currently learning DSA
 </p>
 
 <p align="center">
-  <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&theme=radical" alt="DeveloperHarish98" />
+  <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&theme=dark" alt="DeveloperHarish98" />
 </p>
 
 <p align="center">
