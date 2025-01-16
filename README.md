@@ -29,15 +29,9 @@ I’m currently learning DSA
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="0%" width="32%" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&theme=radical" />
-   <img height="0%" width="28.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHarish98&theme=radical&layout=compact" />
-  </p>
-
-### 📊 GitHub Streak Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact" alt="DeveloperHarish98" /></p>
- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&locale=en" alt="DeveloperHarish98" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact" alt="DeveloperHarish98" /></p>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&" alt="DeveloperHarish98" /></p>
 
