@@ -1,11 +1,11 @@
 # Hi, I'm Harish 👋 
 ### You can call me Harry... I'm a Java & Spring Developer 
 
-👨🏻‍💻A Software Developer with a passion for developing scalable web applications and working across the full stack. I'm always looking for an opportunity to work for an organization and utilize my skills acquired for self-development and the growth of the organization.
+👨🏻‍💻 A Software Developer with a passion for developing scalable web applications and working across the full stack. I'm always looking for an opportunity to work for an organization and utilize my skills acquired for self-development and the growth of the organization.
 
-I’m interested as in Java & Spring Boot application development
-I’m looking to collaborate on development projects
-I’m currently learning DSA
+I’m interested in Java & Spring Boot application development  
+I’m looking to collaborate on development projects  
+I’m currently learning DSA  
 #### Reach me through mail... Harishdubey98r@gmail.com
 
 ### 🛠️ Technology Stack
@@ -30,14 +30,12 @@ I’m currently learning DSA
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="0%" width="32%" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&theme=radical" />
-   <img height="0%" width="28.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHarish98&theme=radical&layout=compact" />
-  </p>
-  <p align="center">
-   <img height="auto" width="32%" src="https://streak-stats.demolab.com/?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="200px" width="32%" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&theme=radical" />
+  <img height="200px" width="28.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHarish98&theme=radical&layout=compact" />
 </p>
-
-
+<p align="center">
+  <img height="200px" width="32%" src="https://streak-stats.demolab.com/?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 ### 🏆 GitHub Trophies
 
@@ -58,9 +56,3 @@ I’m currently learning DSA
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperHarish98&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
-
-<!---
-DeveloperHarish98/DeveloperHarish98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
