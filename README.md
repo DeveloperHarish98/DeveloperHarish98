@@ -42,6 +42,12 @@ I’m currently learning DSA
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&" alt="DeveloperHarish98" />
 </p>
 
+### 📊 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&theme=dark" alt="DeveloperHarish98" />
+</p>
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
