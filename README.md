@@ -33,39 +33,13 @@ I’m currently learning DSA
   <img height="200px" width="32%" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&theme=radical" />
   <img height="200px" width="28.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHarish98&theme=radical&layout=compact" />
 </p>
+
+### 📊 GitHub Streak Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </p>
-<p align="center">
-        <img src="https://streak-stats.demolab.com/?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-    </p>
 
-
-const camoUrl = $0.getAttribute('src');
-const urlRegex = /https:\/\/camo\.githubusercontent\.com\/[a-f0-9]+\/(.*)/;
-const match = camoUrl.match(urlRegex);
-let originalUrl;
-if (match && match[1]) {
-  try {
-    originalUrl = decodeURIComponent(match[1]);
-  } catch (e) {
-    originalUrl = null;
-  }
-}
-let isValid = false;
-if (originalUrl) {
-  try {
-    const response = await fetch(originalUrl, { method: 'HEAD' });
-    isValid = response.ok;
-  } catch (e) {
-    isValid = false;
-  }
-}
-const data = {
-  camoUrl,
-  originalUrl,
-  isValid,
-};   
  
 ### 🏆 GitHub Trophies
 
