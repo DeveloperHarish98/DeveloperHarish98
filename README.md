@@ -27,6 +27,12 @@ I’m currently learning DSA
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
+### 📊 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&" alt="DeveloperHarish98" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -34,12 +40,6 @@ I’m currently learning DSA
 </p>
 <p align="center">
   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact&theme=radical" alt="DeveloperHarish98" />
-</p>
-
-### 📊 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&" alt="DeveloperHarish98" />
 </p>
 
 ### 🏆 GitHub Trophies
