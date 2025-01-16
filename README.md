@@ -33,8 +33,11 @@ I’m currently learning DSA
   <img height="200px" width="32%" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&theme=radical" />
   <img height="200px" width="28.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHarish98&theme=radical&layout=compact" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeveloperHarish98)](https://git.io/streak-stats)
-
+https://streak-stats.demolab.com/?user=DeveloperHarish98
+<p align="center">
+        <img src="https://streak-stats.demolab.com/?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+    </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ### 🏆 GitHub Trophies
 
 <p align="center">
