@@ -31,7 +31,7 @@ I’m currently learning DSA
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&locale=en" alt="DeveloperHarish98" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact" alt="DeveloperHarish98" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact" alt="DeveloperHarish98" /></p>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&" alt="DeveloperHarish98" /></p>
 
