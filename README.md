@@ -36,8 +36,10 @@ I’m currently learning DSA
 
 ### 📊 GitHub Streak Stats
 
-  <p align="center">
-   <img height="0%" width="32%" src="https://streak-stats.demolab.com?user=DeveloperHarish98&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  ### 👀 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&theme=radical" alt="Streak Stats" />
 </p>
 
 ### 🏆 GitHub Trophies
