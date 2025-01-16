@@ -35,6 +35,18 @@ I’m currently learning DSA
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact" alt="DeveloperHarish98" /></p>
 
+<p align="center">
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&locale=en&theme=radical" alt="DeveloperHarish98" />
+</p>
+
+<p align="center">
+  <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&theme=radical" alt="DeveloperHarish98" />
+</p>
+
+<p align="center">
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact&theme=radical" alt="DeveloperHarish98" />
+</p>
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -47,12 +59,6 @@ I’m currently learning DSA
 
 <p align="center">
   <img height="25%" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&theme=react-dark" alt="Contribution Graph" />
-</p>
-<p align="center">
-  <img height="25%" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&theme=white" alt="Contribution Graph" />
-</p>
-<p align="center">
-  <img height="25%" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&theme=light" alt="Contribution Graph" />
 </p>
 
 ### 👀 Profile Views
