@@ -34,13 +34,13 @@ I’m currently learning DSA
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&locale=en&theme=radical" alt="DeveloperHarish98" />
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&locale=en&theme=dark" alt="DeveloperHarish98" />
 </p>
 <p align="center">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact&theme=radical" alt="DeveloperHarish98" />
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact&theme=dark" alt="DeveloperHarish98" />
 </p>
 <p align="center">
-  <img height="200px" width="400px" src="https://streak-stats.demolab.com?user=DeveloperHarish98&theme=radical" alt="DeveloperHarish98" />
+  <img height="200px" width="400px" src="https://streak-stats.demolab.com?user=DeveloperHarish98&theme=dark" alt="DeveloperHarish98" />
 </p>
 
 ### 🏆 GitHub Trophies
