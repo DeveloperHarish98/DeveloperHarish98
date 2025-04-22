@@ -7,7 +7,7 @@ I’m interested as in Java & Spring Boot application development
 I’m looking to collaborate on development projects
 I’m currently learning DSA
 
-#### Reach me through mail... Harishdubey98r@gmail.com
+#### Reach me through mail -> Harishdubey98r@gmail.com
 
 #### My Portfolio -> https://harishdubeyofficial.netlify.app/
 
