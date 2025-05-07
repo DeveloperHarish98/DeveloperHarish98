@@ -56,10 +56,6 @@ I’m currently learning DSA
 </p>
 
 
-![DeveloperHarish98's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&custom_title=DeveloperHarish98%27s%20GitHub%20Activity%20Graph&bg_color=000000&color=dddddd&line=dddddd&point=dddddd&area_color=FFFFFF&title_color=FFBF00&area=true)
-
-
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -73,6 +69,9 @@ I’m currently learning DSA
 <p align="center">
   <img height="25%" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&theme=react-dark" alt="Contribution Graph" />
 </p>
+
+
+![DeveloperHarish98's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&custom_title=DeveloperHarish98%27s%20GitHub%20Activity%20Graph&bg_color=000000&color=dddddd&line=dddddd&point=dddddd&area_color=FFFFFF&title_color=FFBF00&area=true)
 
 ### 👀 Profile Views
 
