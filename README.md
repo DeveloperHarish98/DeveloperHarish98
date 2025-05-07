@@ -17,27 +17,8 @@ growth of the organization.<br>
 ### 📬 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-orange?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Harishdubey98r@gmail.com)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-9cf?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://harishdubeyofficial.netlify.app/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-dubey-a018b1151/)
-
-### 📫 Reach Me
-
-[![Gmail](https://img.shields.io/badge/Email-Harishdubey98r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harishdubey98r@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=About.me&logoColor=white)](https://harishdubeyofficial.netlify.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-dubey-a018b1151/)
-
-### 📫 Reach Me
-
-[![Gmail](https://img.shields.io/badge/Email-Harishdubey98r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harishdubey98r@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=About.me&logoColor=white)](https://harishdubeyofficial.netlify.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-dubey-a018b1151/)
-
 
 ### 🛠️ Technology Stack
 
