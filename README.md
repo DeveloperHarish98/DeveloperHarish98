@@ -43,6 +43,23 @@ I’m currently learning DSA
   <img height="200px" width="400px" src="https://streak-stats.demolab.com?user=DeveloperHarish98&theme=dark" alt="DeveloperHarish98" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/DeveloperHarish98">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&theme=dark&title_color=FFBF00&area=true" alt="DeveloperHarish98's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DeveloperHarish98">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperHarish98&theme=dark&title_color=FFBF00&area=true" alt="DeveloperHarish98's GitHub Contribution"/>
+  </a>
+</p>
+
+
+![DeveloperHarish98's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&custom_title=DeveloperHarish98%27s%20GitHub%20Activity%20Graph&bg_color=000000&color=dddddd&line=dddddd&point=dddddd&area_color=FFFFFF&title_color=FFBF00&area=true)
+
+
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -62,26 +79,3 @@ I’m currently learning DSA
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue" alt="Profile views" />
 </p>
-
-#### 👀 Views Counter:
-
-
-### 👀 Views Counter:
-
-![Profile Views](https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue)
-
-<p align="center">
-  <a href="https://github.com/DeveloperHarish98">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&theme=dark&title_color=FFBF00&area=true" alt="DeveloperHarish98's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DeveloperHarish98">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperHarish98&theme=dark&title_color=FFBF00&area=true" alt="DeveloperHarish98's GitHub Contribution"/>
-  </a>
-</p>
-
-
-![DeveloperHarish98's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeveloperHarish98&custom_title=DeveloperHarish98%27s%20GitHub%20Activity%20Graph&bg_color=000000&color=dddddd&line=dddddd&point=dddddd&area_color=FFFFFF&title_color=FFBF00&area=true)
-
