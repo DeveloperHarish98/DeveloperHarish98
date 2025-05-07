@@ -8,8 +8,8 @@ I’m looking to collaborate on development projects
 I’m currently learning DSA
 
 #### Reach me through mail -> Harishdubey98r@gmail.com
-
 #### My Portfolio -> https://harishdubeyofficial.netlify.app/
+#### My Linkdin
 
 ### 🛠️ Technology Stack
 
@@ -62,6 +62,8 @@ I’m currently learning DSA
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperHarish98&style=flat-square&color=blue" alt="Profile views" />
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue)
 
 
 <!---
