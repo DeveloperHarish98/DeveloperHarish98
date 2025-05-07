@@ -65,7 +65,7 @@ I’m currently learning DSA
 </p>
 
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue)
+https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue
 </p>
 
 <!---
