@@ -60,13 +60,10 @@ I’m currently learning DSA
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeveloperHarish98&style=flat-square&color=blue" alt="Profile views" />
   <img src="https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue
-</p>
+
 
 <!---
 DeveloperHarish98/DeveloperHarish98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
