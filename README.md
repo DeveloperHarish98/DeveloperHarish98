@@ -65,19 +65,6 @@ I’m currently learning DSA
 
 #### 👀 Views Counter:
 
-![Profile Views](https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue)
-
-<p align="center">
-  <a href="https://github.com/DeveloperHarish98">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperHarish98&theme=dark&title_color=FFBF00&area=true" alt="DeveloperHarish98's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DeveloperHarish98">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperHarish98&theme=dark&title_color=FFBF00&area=true" alt="DeveloperHarish98's GitHub Contribution"/>
-  </a>
-</p>
 
 <a href="https://github.com/DeveloperHarish98">
     <img alt="DeveloperHarish98's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DeveloperHarish98&theme=dark&title_color=FFBF00&area=true" height="192px" width="49%"/>
