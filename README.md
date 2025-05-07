@@ -4,7 +4,7 @@
 👨🏻‍💻 A Software Developer with a passion for developing scalable web applications 
 and working across the full stack. I'm always looking for an opportunity to work 
 for an organization and utilize my skills acquired for self-development and the 
-growth of the organization.<br><br>
+growth of the organization.<br>
 
 💻 I’m interested in Java & Spring Boot application development.<br>
 🤝 I’m looking to collaborate on development projects.<br>
