@@ -10,9 +10,9 @@ growth of the organization.<br><br>
 🤝 I’m looking to collaborate on development projects.<br>
 📚 I’m currently learning DSA.
 
-## Reach me through mail -> Harishdubey98r@gmail.com
-## My Portfolio -> https://harishdubeyofficial.netlify.app/
-## My Linkdin -> https://www.linkedin.com/in/harish-dubey-a018b1151/
+- Reach me through mail -> Harishdubey98r@gmail.com
+- My Portfolio -> https://harishdubeyofficial.netlify.app/
+- My Linkdin -> https://www.linkedin.com/in/harish-dubey-a018b1151/
 
 ### 🛠️ Technology Stack
 
