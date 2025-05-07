@@ -1,5 +1,5 @@
 # Hi, I'm Harish 👋 
-### You can call me Harry... I'm a Java & Spring Developer 
+### You can call me Harry... I'm a Java & Spring Boot Developer 
 
 👨🏻‍💻 A Software Developer with a passion for developing scalable web applications 
 and working across the full stack. I'm always looking for an opportunity to work 
@@ -41,10 +41,7 @@ growth of the organization.<br>
 
 <p align="center">
   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperHarish98&show_icons=true&locale=en&layout=compact&theme=dark" alt="DeveloperHarish98" />
-</p>
-
-<p align="center">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&locale=en&theme=dark" alt="DeveloperHarish98" />
+ <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=DeveloperHarish98&show_icons=true&locale=en&theme=dark" alt="DeveloperHarish98" />
 </p>
 
 <p align="center">
