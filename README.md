@@ -10,19 +10,15 @@ growth of the organization.<br>
 🤝 I’m looking to collaborate on development projects.<br>
 📚 I’m currently learning DSA.
 
-##### Reach me through mail -> Harishdubey98r@gmail.com
-##### My Portfolio -> https://harishdubeyofficial.netlify.app/
-##### My Linkdin -> https://www.linkedin.com/in/harish-dubey-a018b1151/
-
 ### 📬 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish%20Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-dubey-a018b1151/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20Site-9cf?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://harishdubeyofficial.netlify.app/) 
+
 [![Gmail](https://img.shields.io/badge/Email-Harishdubey98r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harishdubey98r@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-9cf?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://harishdubeyofficial.netlify.app/) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-dubey-a018b1151/)
-
 ### 🛠️ Technology Stack
-
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
