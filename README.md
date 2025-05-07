@@ -1,13 +1,6 @@
 # Hi, I'm Harish 👋 
 ### You can call me Harry... I'm a Java & Spring Developer 
 
-👨🏻‍💻A Software Developer with a passion for developing scalable web applications and working across the full stack. I'm always looking for an opportunity to work for an organization and utilize my skills acquired for self-development and the growth of the organization.
-
-I’m interested as in Java & Spring Boot application development
-I’m looking to collaborate on development projects
-I’m currently learning DSA
-
-
 👨🏻‍💻 A Software Developer with a passion for developing scalable web applications 
 and working across the full stack. I'm always looking for an opportunity to work 
 for an organization and utilize my skills acquired for self-development and the 
@@ -19,7 +12,7 @@ growth of the organization.<br><br>
 
 #### Reach me through mail -> Harishdubey98r@gmail.com
 #### My Portfolio -> https://harishdubeyofficial.netlify.app/
-#### My Linkdin
+#### My Linkdin -> https://www.linkedin.com/in/harish-dubey-a018b1151/
 
 ### 🛠️ Technology Stack
 
