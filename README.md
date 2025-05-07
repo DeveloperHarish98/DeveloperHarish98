@@ -7,20 +7,7 @@ I’m interested as in Java & Spring Boot application development
 I’m looking to collaborate on development projects
 I’m currently learning DSA
 
-<style>
-  .dev-font {
-    font-family: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', monospace;
-    background-color: #0d1117;
-    color: #f0f6fc;
-    padding: 20px;
-    border-radius: 8px;
-    font-size: 16px;
-    line-height: 1.6;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-  }
-</style>
 
-<div class="dev-font">
 👨🏻‍💻 A Software Developer with a passion for developing scalable web applications 
 and working across the full stack. I'm always looking for an opportunity to work 
 for an organization and utilize my skills acquired for self-development and the 
@@ -29,8 +16,6 @@ growth of the organization.<br><br>
 💻 I’m interested in Java & Spring Boot application development.<br>
 🤝 I’m looking to collaborate on development projects.<br>
 📚 I’m currently learning DSA.
-</div>
-
 
 #### Reach me through mail -> Harishdubey98r@gmail.com
 #### My Portfolio -> https://harishdubeyofficial.netlify.app/
