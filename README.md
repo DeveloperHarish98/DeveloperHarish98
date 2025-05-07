@@ -11,8 +11,17 @@ growth of the organization.<br>
 📚 I’m currently learning DSA.
 
 ##### Reach me through mail -> Harishdubey98r@gmail.com
-- My Portfolio -> https://harishdubeyofficial.netlify.app/
-- My Linkdin -> https://www.linkedin.com/in/harish-dubey-a018b1151/
+##### My Portfolio -> https://harishdubeyofficial.netlify.app/
+##### My Linkdin -> https://www.linkedin.com/in/harish-dubey-a018b1151/
+
+### 📫 Reach Me
+
+[![Gmail](https://img.shields.io/badge/Email-Harishdubey98r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harishdubey98r@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=About.me&logoColor=white)](https://harishdubeyofficial.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-dubey-a018b1151/)
+
 
 ### 🛠️ Technology Stack
 
