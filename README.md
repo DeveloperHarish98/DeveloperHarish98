@@ -16,7 +16,7 @@ growth of the organization.<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20Site-9cf?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://harishdubeyofficial.netlify.app/) 
 
-[![Gmail](https://img.shields.io/badge/Email-Harishdubey98r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harishdubey98r@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Harishdubey98r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harishdubey98r@gmail.com)
 
 ### 🛠️ Technology Stack
 
