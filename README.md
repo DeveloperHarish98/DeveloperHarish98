@@ -1,5 +1,5 @@
 # Hi, I'm Harish 👋 
-### You can call me Harry... I'm a Java & Spring Boot Developer 
+### Or Inshort I am Harry...A Java & Spring Boot Developer
 
 👨🏻‍💻 A Software Developer with a passion for developing scalable web applications 
 and working across the full stack. I'm always looking for an opportunity to work 
