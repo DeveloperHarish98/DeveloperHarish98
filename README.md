@@ -1,5 +1,5 @@
 # Hi, I'm Harish 👋 
-### Java and Spring Boot Developer with added expertise in RAG, Docker, Microservices, and AI-driven features.
+### Java and Spring Boot Developer with also expertise in RAG, Docker, Microservices, and AI-driven features.
 
 A Software Developer with a passion for developing scalable web applications 
 and working across the full stack. I'm always looking for an opportunity to work 
