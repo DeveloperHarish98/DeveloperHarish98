@@ -82,7 +82,6 @@ growth of the organization.<br>
 <table>
 <tr>
 <td width="50%">
-
 ## 🚌 Busotrip
 A full-stack Bus Ticket Booking Application with secure authentication and modern UI.
 
