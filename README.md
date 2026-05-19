@@ -77,7 +77,7 @@ growth of the organization.<br>
 
 ---
 
-# 🚀 My Deployed Projects & Products
+# 🚀 Deployed Projects & Products
 
 <table>
 <tr>
