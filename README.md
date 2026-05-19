@@ -88,8 +88,6 @@ growth of the organization.<br>
 
 🔗 https://busotrip.netlify.app/login
 
-<br>
-
 <img src="./assets/Busotrip.png" width="100%" alt="Busotrip Preview"/>
 
 </td>
@@ -99,8 +97,6 @@ growth of the organization.<br>
 ## 🤖 UniBot Pro
 
 🔗 https://unibot-pro.onrender.com/login
-
-<br>
 
 <img src="./assets/UniBot Pro.png" width="100%" alt="UniBot Pro Preview"/>
 
@@ -112,8 +108,6 @@ growth of the organization.<br>
 
 🔗 https://myitspotify.netlify.app/
 
-<br>
-
 <img src="./assets/ItSpotify.png" width="100%" alt="ItSpotify Preview"/>
 
 </td>
@@ -124,8 +118,6 @@ growth of the organization.<br>
 
 🔗 https://huggingface.co/spaces/HarishDubey98/RAG_Chatbot
 
-<br>
-
 <img src="./assets/RAG Chat Bot.png" width="100%" alt="RAG ChatBot Preview"/>
 
 </td>
@@ -135,8 +127,6 @@ growth of the organization.<br>
 ## 🌐 Workfolio
 
 🔗 https://harishdubeyofficial.netlify.app/
-
-<br>
 
 <img src="./assets/Workfolio.png" width="100%" alt="Workfolio Preview"/>
 
