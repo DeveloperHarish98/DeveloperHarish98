@@ -81,76 +81,79 @@ growth of the organization.<br>
 
 <table>
 <tr>
-<td width="50%">
 
-## 🚌 Busotrip
-A full-stack Bus Ticket Booking Application with secure authentication and modern UI.
+<td width="20%" align="center">
 
-🔗 https://busotrip.netlify.app/login
+### 🚌 Busotrip
 
-<br>
+<a href="https://busotrip.netlify.app/login" target="_blank">
+  <img src="./assets/Busotrip.png" width="100%" alt="Busotrip"/>
+</a>
 
-<img src="./assets/Busotrip.png" width="100%" alt="Busotrip Preview"/>
+<br><br>
 
-</td>
-
-<td width="50%">
-<br>
-  
-## 🤖 UniBot Pro
-An AI-powered platform featuring smart assistant capabilities and document analysis.
-
-🔗 https://unibot-pro.onrender.com/login
-
-<br>
-
-<img src="./assets/UniBot Pro.png" width="100%" alt="UniBot Pro Preview"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🎵 Personal Music Player
-A responsive music streaming web application inspired by Spotify UI/UX.
-
-🔗 https://myitspotify.netlify.app/
-
-<br>
-
-<img src="./assets/ItSpotify.png" width="100%" alt="ItSpotify Preview"/>
+Full-stack Bus Ticket Booking Application.
 
 </td>
 
-<td width="50%">
+<td width="20%" align="center">
 
-## 🧠 RAG ChatBot
-A Retrieval-Augmented Generation based chatbot supporting document uploads and AI responses.
+### 🤖 UniBot Pro
 
-🔗 https://huggingface.co/spaces/HarishDubey98/RAG_Chatbot
+<a href="https://unibot-pro.onrender.com/login" target="_blank">
+  <img src="./assets/UniBot Pro.png" width="100%" alt="UniBot Pro"/>
+</a>
 
-<br>
+<br><br>
 
-<img src="./assets/RAG Chat Bot.png" width="100%" alt="RAG ChatBot Preview"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" align="center">
-
-## 🌐 My Workfolio
-My personal portfolio showcasing projects, technical skills, and experience.
-
-🔗 https://harishdubeyofficial.netlify.app/
-
-<br>
-
-<img src="./assets/Workfolio.png" width="85%" alt="Workfolio Preview"/>
+AI-powered platform with smart assistant features.
 
 </td>
+
+<td width="20%" align="center">
+
+### 🎵 Music Player
+
+<a href="https://myitspotify.netlify.app/" target="_blank">
+  <img src="./assets/ItSpotify.png" width="100%" alt="Music Player"/>
+</a>
+
+<br><br>
+
+Responsive Spotify-inspired music streaming app.
+
+</td>
+
+<td width="20%" align="center">
+
+### 🧠 RAG ChatBot
+
+<a href="https://huggingface.co/spaces/HarishDubey98/RAG_Chatbot" target="_blank">
+  <img src="./assets/RAG Chat Bot.png" width="100%" alt="RAG ChatBot"/>
+</a>
+
+<br><br>
+
+RAG-based AI chatbot with document upload support.
+
+</td>
+
+<td width="20%" align="center">
+
+### 🌐 Workfolio
+
+<a href="https://harishdubeyofficial.netlify.app/" target="_blank">
+  <img src="./assets/Workfolio.png" width="100%" alt="Workfolio"/>
+</a>
+
+<br><br>
+
+Personal portfolio showcasing projects and skills.
+
+</td>
+
 </tr>
 </table>
+
 
 ---
