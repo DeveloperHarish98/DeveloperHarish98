@@ -95,8 +95,7 @@ A full-stack Bus Ticket Booking Application with secure authentication and moder
 </td>
 
 <td width="50%">
-
-
+<br>
 ## 🤖 UniBot Pro
 An AI-powered platform featuring smart assistant capabilities and document analysis.
 
