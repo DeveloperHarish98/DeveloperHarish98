@@ -81,10 +81,10 @@ growth of the organization.<br>
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="20%" valign="top">
 
 ## 🚌 Busotrip
-A full-stack Bus Ticket Booking Application with secure authentication and modern UI.
 
 🔗 https://busotrip.netlify.app/login
 
@@ -94,10 +94,9 @@ A full-stack Bus Ticket Booking Application with secure authentication and moder
 
 </td>
 
-<td width="50%">
+<td width="20%" valign="top">
 
 ## 🤖 UniBot Pro
-An AI-powered platform featuring smart assistant capabilities and document analysis.
 
 🔗 https://unibot-pro.onrender.com/login
 
@@ -106,13 +105,10 @@ An AI-powered platform featuring smart assistant capabilities and document analy
 <img src="./assets/UniBot Pro.png" width="100%" alt="UniBot Pro Preview"/>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="20%" valign="top">
 
-## 🎵 Personal Music Player
-A responsive music streaming web application inspired by Spotify UI/UX.
+## 🎵 Music Player
 
 🔗 https://myitspotify.netlify.app/
 
@@ -122,10 +118,9 @@ A responsive music streaming web application inspired by Spotify UI/UX.
 
 </td>
 
-<td width="50%">
+<td width="20%" valign="top">
 
 ## 🧠 RAG ChatBot
-A Retrieval-Augmented Generation based chatbot supporting document uploads and AI responses.
 
 🔗 https://huggingface.co/spaces/HarishDubey98/RAG_Chatbot
 
@@ -134,21 +129,19 @@ A Retrieval-Augmented Generation based chatbot supporting document uploads and A
 <img src="./assets/RAG Chat Bot.png" width="100%" alt="RAG ChatBot Preview"/>
 
 </td>
-</tr>
 
-<tr>
-<td width="100%" align="center">
+<td width="20%" valign="top">
 
-## 🌐 My Workfolio
-My personal portfolio showcasing projects, technical skills, and experience.
+## 🌐 Workfolio
 
 🔗 https://harishdubeyofficial.netlify.app/
 
 <br>
 
-<img src="./assets/Workfolio.png" width="85%" alt="Workfolio Preview"/>
+<img src="./assets/Workfolio.png" width="100%" alt="Workfolio Preview"/>
 
 </td>
+
 </tr>
 </table>
 
