@@ -74,3 +74,82 @@ growth of the organization.<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperHarish98&color=blue" alt="Profile views" />
 </p>
+
+---
+
+# 🚀 My Deployed Projects & Products
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚌 Busotrip
+A full-stack Bus Ticket Booking Application with secure authentication and modern UI.
+
+🔗 https://busotrip.netlify.app/login
+
+<br>
+
+<img src="./assets/Busotrip.png" width="100%" alt="Busotrip Preview"/>
+
+</td>
+
+<td width="50%">
+
+## 🤖 UniBot Pro
+An AI-powered platform featuring smart assistant capabilities and document analysis.
+
+🔗 https://unibot-pro.onrender.com/login
+
+<br>
+
+<img src="./assets/UniBot Pro.png" width="100%" alt="UniBot Pro Preview"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🎵 Personal Music Player
+A responsive music streaming web application inspired by Spotify UI/UX.
+
+🔗 https://myitspotify.netlify.app/
+
+<br>
+
+<img src="./assets/ItSpotify.png" width="100%" alt="ItSpotify Preview"/>
+
+</td>
+
+<td width="50%">
+
+## 🧠 RAG ChatBot
+A Retrieval-Augmented Generation based chatbot supporting document uploads and AI responses.
+
+🔗 https://huggingface.co/spaces/HarishDubey98/RAG_Chatbot
+
+<br>
+
+<img src="./assets/RAG Chat Bot.png" width="100%" alt="RAG ChatBot Preview"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" align="center">
+
+## 🌐 My Workfolio
+My personal portfolio showcasing projects, technical skills, and experience.
+
+🔗 https://harishdubeyofficial.netlify.app/
+
+<br>
+
+<img src="./assets/Workfolio.png" width="85%" alt="Workfolio Preview"/>
+
+</td>
+</tr>
+</table>
+
+---
