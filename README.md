@@ -85,7 +85,7 @@ growth of the organization.<br>
 
 <br><br>
 
-Full-stack Bus Ticket Booking Application.
+Full-stack Advanced Bus Ticket Booking Application.
 
 </td>
 
